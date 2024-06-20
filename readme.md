@@ -1,6 +1,6 @@
 # Vixon Style Explorer
 
-Vixon Style Explorer is a temporary Chrome extension that improves the user interface for navigating Vixon's Lora styles on the CivitAI website. This extension addresses the issue of Vixon's unwillingness to cooperate with the community's requests to limit the number of versions in a single model post, which causes harm to versions listed later in the list and makes navigation difficult with the current UI.
+Vixon Style Explorer is a temporary Chrome extension that improves the user interface for navigating Vixon's Lora styles on the CivitAI website. This extension addresses the issue of CivitAI's unwillingness to cooperate with the community's requests to limit the number of versions in a single model post, which causes harm to versions listed later in the list and makes navigation difficult with the current UI.
 
 ![A preview of the updated UI](/images/VixonPreview.jpeg)
 
